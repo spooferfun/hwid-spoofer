@@ -1,4 +1,4 @@
-# Spoofer.fun
+# Spoofer.fun | Perm and Temp 
 HWID / DIsk Spoofer for Fortnite, Valorant, Apex, Rainbows Six, Rust, Overwatch and much more. Temp and Perm Woofer
 
 
@@ -71,7 +71,7 @@ Time
 - Quick Support
 - Easy woof proccess
 
-_upport
+Support
 - Tutorial Videos
 - Tutorial Text
 - 24/7 fast Support
