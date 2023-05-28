@@ -46,7 +46,8 @@ __Supported and Tested Mainboards__
 
 [YouTube Showcase](https://www.youtube.com/watch?v=p77ThYeRPaM)
 
-**FAQ** ++ __Does it protect you from HWID Bans?__
+**FAQ** 
+__Does it protect you from HWID Bans?__
 > Yes it does! We always recommend you too temp woof before injecting your Cheet. Your Account get banned but your HWID is safe!
 
 Does it work for my Mainboard?  Important to read
