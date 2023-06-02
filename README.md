@@ -1,8 +1,8 @@
 # Spoofer.fun | Perm and Temp Spoofer
-HWID / DIsk Spoofer for Fortnite, Valorant, Apex, Rainbows Six, Rust, Overwatch and much more. Temp and Perm Woofer
+HWID / Dsik Spoofer for Fortnite, Valorant, Apex, Rainbows Six, Rust, Overwatch and much more. Temp and Perm Woofer
 
 
-## [Discord](https://spoofer.fun/dc)
+## [Discord to Download](https://spoofer.fun/dc)
 ## [Website](https://spoofer.fun)
 
 ![gif](https://cdn.discordapp.com/attachments/839379244264980480/1077404029921013770/ezgif.com-optimize_2.gif)
