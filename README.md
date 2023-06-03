@@ -14,6 +14,8 @@ Banned because off Cheating, Internal Reasons etc? We got you covered giving you
 
 We are supporting a **HUGE** amount of Games and Motherboards for this Product with out using any Drives or tools that damage your Hardware too ensure **QUALITY** and having the best solution to provide you a Lifetime undetected woofer experience. Yes this is possible.
 
+Windows 10 and 11 Supported
+
 -----------------------
 __Supported Games__
 - Fortnite
