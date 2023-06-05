@@ -1,12 +1,14 @@
-# Spoofer.fun | Perm and Temp Spoofer
+# Spoofer.fun | Temp / Perm woofer working for all Easy AntiCheat, Battle Eye, Vanguard Games
 HWID / Dsik Spoofer for Fortnite, Valorant, Apex, Rainbows Six, Rust, Overwatch and much more. Temp and Perm Woofer
+Full Game list on https://spoofer.fun/games
 
 
 ## [Discord to Download](https://spoofer.fun/dc)
 ## [Website](https://spoofer.fun)
 
-![gif](https://cdn.discordapp.com/attachments/839379244264980480/1077404029921013770/ezgif.com-optimize_2.gif)
-
+![login](https://spoofer.fun/public/assets/img/about/about-1.png)
+![home](https://spoofer.fun/public/assets/img/about/about-2.png)
+![Spoof](https://spoofer.fun/public/assets/img/hero/hero-img.png)
 > This is just a AD Repo. Not a GIthub post from those people who post Grabber Files or not working Sources : ) Love you guys.
 Anyways If you want to see a showcase here you go
 
@@ -14,39 +16,41 @@ Banned because off Cheating, Internal Reasons etc? We got you covered giving you
 
 We are supporting a **HUGE** amount of Games and Motherboards for this Product with out using any Drives or tools that damage your Hardware too ensure **QUALITY** and having the best solution to provide you a Lifetime undetected woofer experience. Yes this is possible.
 
-Windows 10 and 11 Supported
+**Spoofer.fun | Information Panel **
 
+__Banned?__ We got you covered! Using Spoofer.fun we give you author chance and do not leave you alone! ||not like my ex||
 -----------------------
-__Supported Games__
-- Fortnite
-- Apex
-- Super People
-- Rainbow
-- Valorant
-- Fall Guys
-- Warzone
-- Overwatch
--  Rust
-- more
+- :wrench: | Temporally Spoofing
 -----------------------
-__Supported and Tested Mainboards__
-- Gigabyte 
-- ASRock 
-- Biostar 
-- Lenovo 
-- HP 
-- ACER 
-- Colorful 
-- EVGA 
-- Microstar 
-- Intel 
-- Aorus 
-- OEM 
-- MSI  | Working but not for every MSI Motherboard, open a Ticket at our Discord and our staff check if everything works.
-- ASUS | Working but only Temp not Perm
------------------------
+ 
+__Working Games__
+**Fortnite | Valorant | Apex |  Super People |  Rainbow Six |  Fall Guys |  Call of Duty | Overwatch |  Rust | Much more...**
+https://spoofer.fun/games for full list
 
-[YouTube Showcase](https://www.youtube.com/watch?v=p77ThYeRPaM)
+__Working Mainbords __
+ **Every Mainboard is working**
+
+__Windows__
+Windows 10
+Windows 11
+
+**Spoofer.fun | Customer care**
+__Spoofer that works fast__
+- Instant delivery
+-  Fast Support
+- 2 Minutes Spoofing Process
+- Quick Bug fixed and much updates
+
+__Benefits and self Management__
+- Tutorial Videos
+- 24/7 HWID Reset
+- Privacy and Security
+
+**Inbuild Features**
+- Inbuild MAC Spoofer
+- Inbuild Cleaners
+
+[Youtube Showcase](https://www.youtube.com/watch?v=RZi_WbEZ_cE)
 
 **FAQ** 
 __Does it protect you from HWID Bans?__
@@ -69,17 +73,3 @@ Do we give Support?
 
 More questions? We would like to answer them, open a <#1099481747802038312>.
 
-Time 
-- Fast Delivery after Payment
-- Quick Support
-- Easy woof proccess
-
-Support
-- Tutorial Videos
-- Tutorial Text
-- 24/7 fast Support
-
-Customer Support  
-- Access too reset your Key
-- Access to Web Dashboard Features
-- Security & Privacy
