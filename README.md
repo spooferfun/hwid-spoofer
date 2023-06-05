@@ -12,7 +12,7 @@ Full Game list on https://spoofer.fun/games
 > This is just a AD Repo. Not a GIthub post from those people who post Grabber Files or not working Sources : ) Love you guys.
 Anyways If you want to see a showcase here you go
 
-Banned because off Cheating, Internal Reasons etc? We got you covered giving you a second chance ||not like my ex 👀  || 
+Banned because off Cheating, Internal Reasons etc? We got you covered giving you a second chance 
 
 We are supporting a **HUGE** amount of Games and Motherboards for this Product with out using any Drives or tools that damage your Hardware too ensure **QUALITY** and having the best solution to provide you a Lifetime undetected woofer experience. Yes this is possible.
 
