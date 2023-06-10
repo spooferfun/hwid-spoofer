@@ -18,7 +18,7 @@ We are supporting a **HUGE** amount of Games and Motherboards for this Product w
 
 **Spoofer.fun | Information Panel **
 
-__Banned?__ We got you covered! Using Spoofer.fun we give you author chance and do not leave you alone! ||not like my ex||
+__Banned?__ We got you covered! Using Spoofer.fun we give you author chance and do not leave you alone! 
 -----------------------
 - :wrench: | Temporally Spoofing
 -----------------------
