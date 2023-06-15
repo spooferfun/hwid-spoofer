@@ -21,6 +21,7 @@ We are supporting a **HUGE** amount of Games and Motherboards for this Product w
 __Banned?__ We got you covered! Using Spoofer.fun we give you author chance and do not leave you alone! 
 -----------------------
 - :wrench: | Temporally Spoofing
+- :wrench: | Permenant Spoofing
 -----------------------
  
 __Working Games__
