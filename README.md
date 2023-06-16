@@ -4,8 +4,8 @@ Full Game list on https://spoofer.fun/games
 
 
 ## [Discord to Download](https://spoofer.fun/dc)
-## [Website](https://spoofer.fun)
-
+# [Website](https://spoofer.fun)
+# [Full Supported Game List](https://spoofer.fun/games)
 ![login](https://spoofer.fun/public/assets/img/about/about-1.png)
 ![home](https://spoofer.fun/public/assets/img/about/about-2.png)
 ![Spoof](https://spoofer.fun/public/assets/img/hero/hero-img.png)
