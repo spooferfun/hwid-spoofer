@@ -6,9 +6,10 @@ Full Game list on https://spoofer.fun/games
 ## [Discord to Download](https://spoofer.fun/dc)
 # [Website](https://spoofer.fun)
 # [Full Supported Game List](https://spoofer.fun/games)
-![login](https://spoofer.fun/public/assets/img/about/about-1.png)
-![home](https://spoofer.fun/public/assets/img/about/about-2.png)
-![Spoof](https://spoofer.fun/public/assets/img/hero/hero-img.png)
+![about-1 (1)](https://github.com/spooferfun/hwid-spoofer/assets/72314825/1342078b-719f-4e36-85d0-c08cf0e00d9a)
+![about-2 (1)](https://github.com/spooferfun/hwid-spoofer/assets/72314825/1aa98478-b752-41f7-b19c-723646cbc847)
+![hero-img (1)](https://github.com/spooferfun/hwid-spoofer/assets/72314825/990b357f-a187-4cd5-a267-3a3f8ffc8922)
+
 > This is just a AD Repo. Not a GIthub post from those people who post Grabber Files or not working Sources : ) Love you guys.
 Anyways If you want to see a showcase here you go
 
