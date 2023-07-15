@@ -2,6 +2,7 @@
 HWID / Dsik Spoofer for Fortnite, Valorant, Apex, Rainbows Six, Rust, Overwatch and much more. Temp and Perm Woofer
 Full Game list on https://spoofer.fun/games
 
+**WE OFFER FREE RESELLING FOR ANYONE! JOIN OUR DISCORD TO APPLY AS A RESELLER**
 
 ## [Discord to Download](https://spoofer.fun/dc)
 ## [Website](https://spoofer.fun)
